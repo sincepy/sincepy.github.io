@@ -25,6 +25,7 @@ This project makes it easier to create your own blog, without a lot of setup.
 
 - `content -> posts` : all the posts, delete the template, write your own.
 
+The website will update about 20s after you push.
 
 Powered by Hugo and Github Action, you are welcome to contribute.
 
