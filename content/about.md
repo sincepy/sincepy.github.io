@@ -17,6 +17,8 @@ disableAutoCollapse: true
 
 ## About Yourself
 
+Test
+
 This is some static page where you can write about yourself.
 
 ## hugo theme [simpleness](https://github.com/RainerChiang/simpleness)
