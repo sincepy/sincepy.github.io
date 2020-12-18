@@ -1,3 +1,8 @@
+# Introduction
+
+This project makes it easier to create your own blog, without a lot of setup.
+
+
 # Setup
 
 - Fork the repo
