@@ -2,6 +2,8 @@
 
 This project makes it easier to create your own blog, without a lot of setup.
 
+To see a demo of the blog [https://yzwdroid.github.io/](https://yzwdroid.github.io/)
+
 
 # Setup
 
