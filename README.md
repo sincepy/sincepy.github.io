@@ -29,6 +29,10 @@ To see a demo of the blog [https://yzwdroid.github.io/](https://yzwdroid.github.
 
 The website will update about 20s after you push.
 
+# TODO
+
+- Customized Domain Name
+
 Powered by Hugo and Github Action, you are welcome to contribute.
 
 
